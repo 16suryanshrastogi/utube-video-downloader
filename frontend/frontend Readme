@@ -1,0 +1,11 @@
+This is the front end of the YouTube Video Downloader application, built using React, JavaScript, HTML, and CSS. The user-friendly interface allows users to easily download videos from YouTube.
+
+# Features
+Responsive Design: Optimized for both desktop and mobile devices.
+Video Downloading: Input a YouTube URL to download videos in various formats.
+Format and Resolution Options: Select from multiple formats (MP4, MP3) and resolutions (720p, 1080p).
+
+# Tech Stack
+React: JavaScript library for building user interfaces.
+HTML/CSS: Structure and styling for the application.
+Axios: For making API requests to the backend.
