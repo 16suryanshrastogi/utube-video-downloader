@@ -1,0 +1,7 @@
+# Backend
+The backend of this application handles video downloading and processing. Here’s a brief overview:
+
+# Technology Stack
+Node.js: Server-side JavaScript runtime for building scalable network applications.
+Express.js: Web framework for Node.js, used to create API endpoints.
+ytdl-core: A Node.js module that allows downloading YouTube videos easily.
