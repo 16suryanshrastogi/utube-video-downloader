@@ -5,3 +5,9 @@ The backend of this application handles video downloading and processing. Hereâ€
 Node.js: Server-side JavaScript runtime for building scalable network applications.
 Express.js: Web framework for Node.js, used to create API endpoints.
 ytdl-core: A Node.js module that allows downloading YouTube videos easily.
+
+
+*********The server will run on http://localhost:5000.*********
+
+# Usage
+The frontend communicates with the backend to download videos. Ensure the backend is running before using the application.
